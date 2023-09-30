@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900419901707",
+    "project_id": "fir-otpverify-66196",
+    "storage_bucket": "fir-otpverify-66196.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900419901707:android:4d943f7b5ad071214dea0e",
+        "android_client_info": {
+          "package_name": "com.demo.firebasephoneverification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdE7EEXgJrs8-oQB9e_QntzB7q1POsiZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

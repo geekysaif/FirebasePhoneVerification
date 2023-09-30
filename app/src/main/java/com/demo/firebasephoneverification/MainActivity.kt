@@ -15,6 +15,7 @@ import com.google.firebase.auth.PhoneAuthProvider
 import java.util.concurrent.TimeUnit
 
 class MainActivity : AppCompatActivity() {
+    /*created by saif*/
     // this stores the phone number of the user
     var number : String =""
 
